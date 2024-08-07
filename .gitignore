@@ -163,4 +163,5 @@ cython_debug/
 
 artifacts/*
 
-kidney-CT-Scan.Zip/
+research/kidney-CT-Scan.Zip
+*.venv
