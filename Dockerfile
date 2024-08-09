@@ -1,5 +1,5 @@
 # Use the official Python 3.11.9 image
-FROM python:3.11.9-slim-buster
+FROM python:3.8-slim-buster
 
 # Update the package list and install awscli
 RUN apt update -y && apt install awscli -y
